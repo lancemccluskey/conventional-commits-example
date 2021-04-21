@@ -10,6 +10,10 @@ server.get('/robot', async (request, reply) => {
   return 'beep boop\n';
 });
 
+server.get('/animal', async (request, reply) => {
+  return 'grrrrrr\n';
+});
+
 server.listen(3000, (err, address) => {
   if (err) {
     console.error(err);
