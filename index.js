@@ -14,6 +14,10 @@ server.get('/animal', async (request, reply) => {
   return 'grrrrrr\n';
 });
 
+server.get('/animal', async (request, reply) => {
+  return 'yummmm\n';
+});
+
 server.listen(3000, (err, address) => {
   if (err) {
     console.error(err);
