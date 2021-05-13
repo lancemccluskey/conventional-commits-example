@@ -1,4 +1,15 @@
 Example Header
+## [2.0.0](https://github.com/lancemccluskey/conventional-commits-example/compare/v1.0.1...v2.0.0) (2021-05-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* [PROJ-7] This is my example breaking change
+
+### Features
+
+* [PROJ-7] This is my example breaking change ([d990a07](https://github.com/lancemccluskey/conventional-commits-example/commit/d990a07030314ab44c681a72c8444124b4945d95))
+
 ### [1.0.1](https://github.com/lancemccluskey/conventional-commits-example/compare/v1.0.0...v1.0.1) (2021-05-13)
 
 
