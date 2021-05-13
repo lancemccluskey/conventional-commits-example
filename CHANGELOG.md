@@ -1,4 +1,11 @@
 Example Header
+### [1.0.1](https://github.com/lancemccluskey/conventional-commits-example/compare/v1.0.0...v1.0.1) (2021-05-13)
+
+
+### Bug Fixes
+
+* [PROJ-6] Fixing duplicate animals service ([71d7b8f](https://github.com/lancemccluskey/conventional-commits-example/commit/71d7b8fbbc2b3f5f173a78052179d9e9a75a7d20))
+
 ## 1.0.0 (2021-05-13)
 
 
