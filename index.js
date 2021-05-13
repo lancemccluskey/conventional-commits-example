@@ -14,7 +14,7 @@ server.get('/animal', async (request, reply) => {
   return 'grrrrrr\n';
 });
 
-server.get('/animal', async (request, reply) => {
+server.get('/cookie', async (request, reply) => {
   return 'yummmm\n';
 });
 
