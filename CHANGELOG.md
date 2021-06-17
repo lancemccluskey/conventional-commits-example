@@ -1,4 +1,11 @@
 Example Header
+## [2.2.0](https://github.com/lancemccluskey/conventional-commits-example/compare/v2.0.0...v2.2.0) (2021-06-17)
+
+
+### Features
+
+* [PROJ-9] whatever ([bf30f33](https://github.com/lancemccluskey/conventional-commits-example/commit/bf30f33f0ea6a03c83858722bac49b11601e4b05))
+
 ## [2.0.0](https://github.com/lancemccluskey/conventional-commits-example/compare/v1.0.1...v2.0.0) (2021-05-13)
 
 
