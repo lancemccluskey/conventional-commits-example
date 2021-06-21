@@ -16,11 +16,6 @@
     "husky": "^6.0.0",
     "standard-version": "^9.2.0"
   },
-  "standard-version": {
-    "skip": {
-      "tag": true
-    }
-  },
   "dependencies": {
     "fastify": "^3.15.0"
   }
